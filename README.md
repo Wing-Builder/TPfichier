@@ -15,5 +15,7 @@ Bernard, GARNIER, 20
 Matthieu, JANIN, 10
 Lucas, GARZA, 19
 
+(Cela s'affiche ligne par ligne).
+
 C'est comme cela que j'ai su que la partie affichage fonctionnait, j'espère juste qu'il s'agit bien du format attendu.
 
